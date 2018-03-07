@@ -1,0 +1,2 @@
+# GitFoo
+New Ideas
